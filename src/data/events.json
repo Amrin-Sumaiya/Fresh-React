@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "name": "Ignacio Doe",
+      "title": "Linux",
+      "description": "Software Engineer",
+      "image": " https://www.esilv.fr/ecole-ingenieur/wp-content/uploads/2020/07/esilv_edith_clarke.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Jane Bennett",
+      "title": "Micorsoft",
+      "description": "developer",
+      "image": "https://c.superprof.com/i/a/31769843/13871575/600/20240626161827/experienced-industrial-engineer-offering-microsoft-excel-tutoring-for-all-skill-levels-supporting-students-with-academic-and.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Al Aksa Majumdar",
+      "title": "Google",
+      "description": " Software Tester",
+      "image": "https://imgix.ranker.com/user_node_img/4032/80639587/original/evan-spiegel-software-developers-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+      "id": "3"
+    },
+    {
+      "name": "Mark Jugarbark",
+      "title": "Facebook",
+      "description": "CEO-(Meta)",
+      "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdwIU8rKQaZKZ9mmTucashfg0ldpSH3ut44w&s",
+      "id": "4"
+    },
+    {
+      "name": "Steve Jobs",
+      "title": "Microsoft",
+      "description": "CEO-(Apple)",
+      "image": "https://www.patriotledger.com/gcdn/authoring/2011/10/06/NPAL/ghows-WL-5db6835c-c5d2-4554-8017-2cab6eb010bc-d4272401.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp",
+      "id": "5"
+    },
+    {
+      "name": "Sumaiya Amrin",
+      "title": "Interner",
+      "description": "Graduate",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/033/662/051/small_2x/cartoon-lofi-young-manga-style-girl-while-listening-to-music-in-the-rain-ai-generative-photo.jpg",
+      "id": "20c1"
+    }
+  ],
+  "events": [
+    {
+      "name": "Akash",
+      "title": "students",
+      "description": "Experienced",
+      "id": "06d9"
+    },
+    {
+      "name": "Ali Ahmed",
+      "title": "Otor",
+      "description": "Not Experienced",
+      "id": "3fc2"
+    },
+    {
+      "name": "Tauhidul Tutul",
+      "title": "devolper",
+      "description": "Experienced",
+      "id": "00e6"
+    },
+    {
+      "name": "Akash Ahmed",
+      "title": "Manager",
+      "description": "Experienced",
+      "id": "03ae"
+    },
+    {
+      "name": "Nishat Tasnim",
+      "title": "Graphics Designers",
+      "description": " Experienced",
+      "id": "3b77"
+    },
+    {
+      "name": "amrin",
+      "title": "student",
+      "description": "BSC",
+      "id": "2ad8"
+    },
+    {
+      "name": "Sabrin",
+      "title": "Students",
+      "description": "HSC",
+      "id": "23c6"
+    },
+    {
+      "name": "Ahmed Ali",
+      "title": "Worker",
+      "description": "BBA",
+      "id": "6d0e"
+    },
+    {
+      "name": "Samira",
+      "title": "Teacher",
+      "description": "Bsc",
+      "id": "8a73"
+    },
+    {
+      "id": "d9af",
+      "title": "",
+      "description": "",
+      "startTime": "",
+      "endTime": "",
+      "categoryIds": [
+        "1"
+      ],
+      "image": ""
+    },
+    {
+      "id": "3401",
+      "title": "",
+      "description": "",
+      "startTime": "",
+      "endTime": "",
+      "categoryIds": [
+        "1"
+      ],
+      "image": ""
+    }
+  ],
+  "categories": [
+    {
+      "name": "sports",
+      "id": "1"
+    },
+    {
+      "name": "games",
+      "id": "2"
+    },
+    {
+      "name": "relaxation",
+      "id": "3"
+    },
+    {
+      "name": "olympiad",
+      "id": "4"
+    },
+    {
+      "name": "dron_racing",
+      "id": "5"
+    }
+  ]
+}
