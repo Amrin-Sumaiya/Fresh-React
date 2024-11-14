@@ -1,5 +1,6 @@
 import React, { useContext, useState } from 'react'
 import { UserContext } from './Context/UserContextProvider'
+import WIthAuth from './HOC/WIthAuth'
 
 const NextEvent = () => {
   const [username, setUsername] = useState('')

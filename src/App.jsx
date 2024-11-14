@@ -11,6 +11,8 @@ import MoreInfo from './pages/AddMore/MoreInfo.jsx';
 import EditUser from './pages/AddMore/EditUser.jsx';
 import LoadData from './pages/AddMore/LoadData.jsx';
 import UserContextProvider from './components/Context/UserContextProvider.jsx';
+import WIthAuth from './components/HOC/WIthAuth.jsx';
+import Login from './components/HOC/Login.jsx';
 
 import Home from './components/Home.jsx'
 import NextEvent from './components/NextEvent.jsx';
@@ -39,7 +41,8 @@ function App() {
                         <Route path='/moreinfo' element={<MoreInfo />} />  
                         <Route path='/edit/:id' element={<EditUser />} /> 
                         <Route path='/loaddata' element={<LoadData />} />
-                        <Route path='/nextevent' element={<NextEvent />} />
+                        <Route path='/login' element={<Login />} />
+                        <Route path='/nextevent' element={<NextEvent/> } />
                     </Routes>
                  
                 </Router>
